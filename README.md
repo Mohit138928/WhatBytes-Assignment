@@ -32,7 +32,7 @@ This project demonstrates a frontend application built with **React**, **Vite**,
 1. Clone the repository:  
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Mohit138928/WhatBytes-Assignment.git
    cd project-directory
    ```  
 
